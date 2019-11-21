@@ -1,0 +1,68 @@
+
+public class Ex2_anagramme {
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String ch1 = "aacd";
+		String ch2 = "dcaa";
+		int []stat = new int [256];
+		
+		for (int i=0 ; i<256 ; i++)
+			System.out.println(i + ": " +(char)i);
+		
+	
+		System.out.println(estAnagrame(ch1,ch2));
+		
+
+	}
+	
+	public void anagramme (String mot1, String mot2) {
+		
+		//boucle qui va de la première lettre a la longueur de la chaine de caractere
+		for(i=0;i<s.length();i++)
+		{
+		// programme Recursif
+		anagrame(s,i);
+		}
+
+		Static void anagramme(String s, int indice)
+		{
+
+		char [] mot=s.toCharArray()// mot dans un tableau
+
+		//ensuite il faut melanger les lettre 
+
+		}
+
+
+		
+	}
+	
+	public static boolean estAnagrame(String ch1, String ch2){
+
+		if (ch1.length()!=ch2.length())
+			return false;
+		
+		int []stat = new int [256];
+		
+		for (int i=0; i< ch1.length(); i++){
+			char c = ch1.charAt(i);
+			stat[c]++;
+		}
+			
+		for (int i=0; i< ch2.length(); i++){
+			char c = ch2.charAt(i);
+			stat[c]--;
+		}
+		
+		for (int i=0; i<stat.length; i++)
+			if (stat[i] != 0)
+				return false;
+		
+		
+		return true;
+	}
+
+}
+
+	

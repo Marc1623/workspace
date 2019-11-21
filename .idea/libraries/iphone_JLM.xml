@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="iphone_JLM">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Iphone/iphone_JLM.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

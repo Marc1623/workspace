@@ -1,0 +1,5 @@
+"Wizard,Gandalf,1,2,-1",
+                "Wizard,Gandalf,1,2,one",
+                "Wizard,Gandalf,1,2",
+                "Hobbit,Bilbo,1,2,3",
+                "Wizard,Gandalf,1,2,3,4",

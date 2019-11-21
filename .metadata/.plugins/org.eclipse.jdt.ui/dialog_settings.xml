@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-1.7"/>
+	<item key="TypeHierarchyViewPart.qualifiednames" value="false"/>
+	<item key="TypeHierarchyViewPart.orientation" value="3"/>
+	<item key="TypeHierarchyViewPart.linkeditors" value="false"/>
+	<item key="TypeHierarchyViewPart.hierarchyview" value="2"/>
+	<item key="SearchScopeActionGroup.search_scope_type" value="1"/>
+	<item key="CallHierarchyViewPart.call_mode" value="0"/>
+	<item key="CallHierarchyViewPart.field_mode" value="2"/>
+	<item key="CallHierarchyViewPart.ratio3" value="500"/>
+	<item key="CallHierarchyViewPart.orientation" value="3"/>
+	<item key="CallHierarchyViewPart.ratio1" value="500"/>
+	<list key="SearchScopeActionGroup.working_set">
+	</list>
+	<section name="ProblemSeveritiesConfigurationBlock">
+		<item key="expanded2" value="false"/>
+		<item key="expanded1" value="false"/>
+		<item key="expanded4" value="false"/>
+		<item key="expanded3" value="false"/>
+		<item key="expanded6" value="false"/>
+		<item key="expanded5" value="false"/>
+		<item key="expanded7" value="false"/>
+		<item key="expanded0" value="true"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item key="layout" value="2"/>
+		<item key="group_libraries" value="true"/>
+		<item key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1537280262102&quot;&gt;&#x0D;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0D;&#x0A;&lt;xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;/customFilters&gt;&#x0D;&#x0A;&lt;/packageExplorer&gt;"/>
+		<item key="rootMode" value="1"/>
+		<item key="linkWithEditor" value="false"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_X_ORIGIN" value="50"/>
+			<item key="DIALOG_Y_ORIGIN" value="44"/>
+		</section>
+	</section>
+	<section name="NewClassWizardPage">
+		<item key="create_constructor" value="false"/>
+		<item key="create_main" value="false"/>
+		<item key="create_unimplemented" value="true"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
+		<item key="WorkingSet" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_X_ORIGIN" value="393"/>
+			<item key="DIALOG_Y_ORIGIN" value="186"/>
+		</section>
+	</section>
+	<section name="FatJarPackageWizard">
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="C:\Users\marcv\workspace"/>
+		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="Apllication - Iphone"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="Iphone\iphone_JLM.jar"/>
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_SAVE" value="false"/>
+		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="1"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="Iphone/iphone_JLM.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value=".xml"/>
+		</list>
+	</section>
+	<section name="javadoc">
+		<item key="access" value="public"/>
+		<item key="noindex" value="false"/>
+		<item key="antpath" value="C:\Users\marcv\workspace\Iphone\javadoc.xml"/>
+		<item key="nodeprecatedlist" value="false"/>
+		<item key="use" value="true"/>
+		<item key="author" value="true"/>
+		<item key="nodeprecated" value="false"/>
+		<item key="nonavbar" value="false"/>
+		<item key="docletpath" value=""/>
+		<item key="javadoc_command_history" value="C:\Program Files\Java\jdk-12\bin\javadoc.exe;C:\Users\marcv\Desktop\Projet_java_Boldireff_Weber_Vial\iphone_JLM.jar;C:\Users\marcv\Desktop\Projet_java_Boldireff_Weber_Vial\2"/>
+		<item key="source" value="1.7"/>
+		<item key="version" value="true"/>
+		<item key="doctitle" value="Javadoc_Jason_Liam_Marc_Vfinal"/>
+		<item key="docletname" value=""/>
+		<item key="splitindex" value="true"/>
+		<item key="fromStandard" value="true"/>
+		<item key="notree" value="false"/>
+		<item key="destdir" value="C:\Users\marcv\Desktop\Projet_java_Boldireff_Weber_Vial"/>
+		<item key="openinbrowser" value="false"/>
+		<section name="projects">
+			<section name="MonPremierProjet">
+				<item key="antpath" value="C:\Users\marcv\workspace\MonPremierProjet\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\MonPremierProjet\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="String">
+				<item key="antpath" value="C:\Users\marcv\workspace\String\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\String\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Math">
+				<item key="antpath" value="C:\Users\marcv\workspace\Math\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\Math\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="s2InfoPers">
+				<item key="antpath" value="C:\Users\marcv\workspace\s2InfoPers\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\s2InfoPers\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="VialMarc">
+				<item key="antpath" value="C:\Users\marcv\workspace\VialMarc\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\VialMarc\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Ado">
+				<item key="antpath" value="C:\Users\marcv\workspace\Ado\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\Ado\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="_FenetreSave">
+				<item key="antpath" value="C:\Users\marcv\workspace\_FenetreSave\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\_FenetreSave\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Contrôle Continu 2 - temps partiel">
+				<item key="antpath" value="C:\Users\marcv\workspace\Contrôle Continu 2 - temps partiel\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\Contrôle Continu 2 - temps partiel\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Module2017">
+				<item key="antpath" value="C:\Users\marcv\workspace\Module2017\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\Module2017\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="uml">
+				<item key="antpath" value="C:\Users\marcv\workspace\uml\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\uml\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Phone">
+				<item key="antpath" value="C:\Users\marcv\workspace\Phone\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\Phone\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="POO_test_en_classe">
+				<item key="antpath" value="C:\Users\marcv\workspace\POO_test_en_classe\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\POO_test_en_classe\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="_GuiBouttonEvent">
+				<item key="antpath" value="C:\Users\marcv\workspace\_GuiBouttonEvent\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\_GuiBouttonEvent\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="PhoneTest">
+				<item key="antpath" value="C:\Users\marcv\workspace\PhoneTest\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\PhoneTest\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Test_entrainement">
+				<item key="antpath" value="C:\Users\marcv\workspace\Test_entrainement\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\Test_entrainement\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="_WindowListner">
+				<item key="antpath" value="C:\Users\marcv\workspace\_WindowListner\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\_WindowListner\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="s2Interface">
+				<item key="antpath" value="C:\Users\marcv\workspace\s2Interface\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\s2Interface\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="AAA">
+				<item key="antpath" value="C:\Users\marcv\workspace\AAA\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\AAA\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="test">
+				<item key="antpath" value="C:\Users\marcv\workspace\test\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\test\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="_GuiChangesLayout">
+				<item key="antpath" value="C:\Users\marcv\workspace\_GuiChangesLayout\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\_GuiChangesLayout\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Tableau2Dimension">
+				<item key="antpath" value="C:\Users\marcv\workspace\Tableau2Dimension\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\Tableau2Dimension\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="iphoneLiam">
+				<item key="antpath" value="C:\Users\marcv\workspace\iphoneLiam\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\iphoneLiam\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Iphone">
+				<item key="antpath" value="C:\Users\marcv\workspace\Iphone\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\Desktop\Projet_java_Boldireff_Weber_Vial"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="calculette">
+				<item key="antpath" value="C:\Users\marcv\workspace\calculette\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\calculette\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Method">
+				<item key="antpath" value="C:\Users\marcv\workspace\Method\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\Method\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="ExericeEnClasseBoucles_BoucleImbriquées">
+				<item key="antpath" value="C:\Users\marcv\workspace\ExericeEnClasseBoucles_BoucleImbriquées\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\ExericeEnClasseBoucles_BoucleImbriquées\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Examen">
+				<item key="antpath" value="C:\Users\marcv\workspace\Examen\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\Examen\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Ancien_Examen_CC2">
+				<item key="antpath" value="C:\Users\marcv\workspace\Ancien_Examen_CC2\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\Ancien_Examen_CC2\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="EXAMEN_VIALMARC">
+				<item key="antpath" value="C:\Users\marcv\workspace\EXAMEN_VIALMARC\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\EXAMEN_VIALMARC\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="tableau">
+				<item key="antpath" value="C:\Users\marcv\workspace\tableau\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\tableau\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Cercle">
+				<item key="antpath" value="C:\Users\marcv\workspace\Cercle\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\Cercle\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Ancien_examen">
+				<item key="antpath" value="C:\Users\marcv\workspace\Ancien_examen\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\Ancien_examen\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="TP">
+				<item key="antpath" value="C:\Users\marcv\workspace\TP\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\TP\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="_ExDoubleFenetre">
+				<item key="antpath" value="C:\Users\marcv\workspace\_ExDoubleFenetre\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\_ExDoubleFenetre\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="S2">
+				<item key="antpath" value="C:\Users\marcv\workspace\S2\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\marcv\workspace\S2\doc"/>
+				<item key="href" value=""/>
+			</section>
+		</section>
+	</section>
+	<section name="JavaBuildConfigurationBlock">
+		<item key="expanded2" value="false"/>
+		<item key="expanded1" value="false"/>
+		<item key="expanded0" value="true"/>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="NewPackageWizardPage">
+		<item key="create_package_info_java" value="false"/>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item key="DIALOG_WIDTH" value="818"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="DIALOG_HEIGHT" value="750"/>
+		<item key="DIALOG_X_ORIGIN" value="560"/>
+		<item key="DIALOG_Y_ORIGIN" value="24"/>
+	</section>
+	<section name="JavaSearchPage">
+		<item key="HISTORY_SIZE" value="0"/>
+		<item key="CASE_SENSITIVE" value="false"/>
+		<item key="INCLUDE_MASK" value="11"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.typehierarchy.QuickHierarchy">
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_WIDTH" value="550"/>
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_HEIGHT" value="400"/>
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+	</section>
+	<section name="SearchInDialog">
+		<item key="SearchInSources" value="true"/>
+		<item key="SearchInProjects" value="true"/>
+		<item key="SearchInJRE" value="true"/>
+		<item key="SearchInAppLibs" value="true"/>
+	</section>
+	<section name="CallHierarchySearchScope">
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item key="pageIndex" value="3"/>
+	</section>
+</section>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AAA/AAA.iml" filepath="$PROJECT_DIR$/AAA/AAA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ado/Ado.iml" filepath="$PROJECT_DIR$/Ado/Ado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AncienExamenString/AncienExamenString.iml" filepath="$PROJECT_DIR$/AncienExamenString/AncienExamenString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ancien_Examen_CC2/Ancien_Examen_CC2.iml" filepath="$PROJECT_DIR$/Ancien_Examen_CC2/Ancien_Examen_CC2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cercle/Cercle.iml" filepath="$PROJECT_DIR$/Cercle/Cercle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientTest/ClientTest.iml" filepath="$PROJECT_DIR$/ClientTest/ClientTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contrôle Continu 2 - temps partiel/Contrôle Continu 2 - temps partiel.iml" filepath="$PROJECT_DIR$/Contrôle Continu 2 - temps partiel/Contrôle Continu 2 - temps partiel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXAMEN_VIALMARC/EXAMEN_VIALMARC.iml" filepath="$PROJECT_DIR$/EXAMEN_VIALMARC/EXAMEN_VIALMARC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen/Examen.iml" filepath="$PROJECT_DIR$/Examen/Examen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen_CC_2019_Marc_Vial/Examen_CC_2019_Marc_Vial.iml" filepath="$PROJECT_DIR$/Examen_CC_2019_Marc_Vial/Examen_CC_2019_Marc_Vial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExericeEnClasseBoucles_BoucleImbriquées/ExericeEnClasseBoucles_BoucleImbriquées.iml" filepath="$PROJECT_DIR$/ExericeEnClasseBoucles_BoucleImbriquées/ExericeEnClasseBoucles_BoucleImbriquées.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iphone/Iphone.iml" filepath="$PROJECT_DIR$/Iphone/Iphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathS2/MathS2.iml" filepath="$PROJECT_DIR$/MathS2/MathS2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2017/Module2017.iml" filepath="$PROJECT_DIR$/Module2017/Module2017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MonPremierProjet/MonPremierProjet.iml" filepath="$PROJECT_DIR$/MonPremierProjet/MonPremierProjet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Monster/Monster.iml" filepath="$PROJECT_DIR$/Monster/Monster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nicola/Nicola.iml" filepath="$PROJECT_DIR$/Nicola/Nicola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO_test_en_classe/POO_test_en_classe.iml" filepath="$PROJECT_DIR$/POO_test_en_classe/POO_test_en_classe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Phone/Phone.iml" filepath="$PROJECT_DIR$/Phone/Phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneTest/PhoneTest.iml" filepath="$PROJECT_DIR$/PhoneTest/PhoneTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2/S2.iml" filepath="$PROJECT_DIR$/S2/S2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S3/S3.iml" filepath="$PROJECT_DIR$/S3/S3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S3Java/S3Java.iml" filepath="$PROJECT_DIR$/S3Java/S3Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerFileTransfer/ServerFileTransfer.iml" filepath="$PROJECT_DIR$/ServerFileTransfer/ServerFileTransfer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServeurTest/ServeurTest.iml" filepath="$PROJECT_DIR$/ServeurTest/ServeurTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP/TP.iml" filepath="$PROJECT_DIR$/TP/TP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tableau2Dimension/Tableau2Dimension.iml" filepath="$PROJECT_DIR$/Tableau2Dimension/Tableau2Dimension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_entrainement/Test_entrainement.iml" filepath="$PROJECT_DIR$/Test_entrainement/Test_entrainement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VialMarc/VialMarc.iml" filepath="$PROJECT_DIR$/VialMarc/VialMarc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vial_Marc_Exa2019/Vial_Marc_Exa2019.iml" filepath="$PROJECT_DIR$/Vial_Marc_Exa2019/Vial_Marc_Exa2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_ExDoubleFenetre/_ExDoubleFenetre.iml" filepath="$PROJECT_DIR$/_ExDoubleFenetre/_ExDoubleFenetre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_FenetreSave/_FenetreSave.iml" filepath="$PROJECT_DIR$/_FenetreSave/_FenetreSave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_GuiBouttonEvent/_GuiBouttonEvent.iml" filepath="$PROJECT_DIR$/_GuiBouttonEvent/_GuiBouttonEvent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_GuiChangesLayout/_GuiChangesLayout.iml" filepath="$PROJECT_DIR$/_GuiChangesLayout/_GuiChangesLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_WindowListner/_WindowListner.iml" filepath="$PROJECT_DIR$/_WindowListner/_WindowListner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculette/calculette.iml" filepath="$PROJECT_DIR$/calculette/calculette.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iphoneLiam/iphoneLiam.iml" filepath="$PROJECT_DIR$/iphoneLiam/iphoneLiam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2018/module2018.iml" filepath="$PROJECT_DIR$/module2018/module2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s2InfoPers/s2InfoPers.iml" filepath="$PROJECT_DIR$/s2InfoPers/s2InfoPers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s2Interface/s2Interface.iml" filepath="$PROJECT_DIR$/s2Interface/s2Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tableau/tableau.iml" filepath="$PROJECT_DIR$/tableau/tableau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uml/uml.iml" filepath="$PROJECT_DIR$/uml/uml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace.iml" filepath="$PROJECT_DIR$/workspace.iml" />
+    </modules>
+  </component>
+</project>

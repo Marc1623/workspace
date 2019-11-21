@@ -1,0 +1,58 @@
+import java.io.BufferedInputStream;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.net.ServerSocket;
+import java.net.Socket;
+
+
+// inputstream to receiv information
+// Buffer is used so that we don't lose data
+
+public class FileServer {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		try {
+			//in constructor we need to put the port / start at 1025 until 655...(2puissance16)
+			ServerSocket servSock = new ServerSocket(5556); 
+			
+			
+			while(true) { //a loop to always listen 
+			Socket sock = servSock.accept();
+			System.out.println("someone is connected : " + sock);
+			
+			//OutputStream to send information out
+			OutputStream os = sock.getOutputStream();
+			
+			File myFile = new File("C:\\Users\\marcv\\Desktop\\Agenda.xslx");
+			
+			byte[] mybytearray = new byte[(int)myFile.length()];
+			
+			FileInputStream fis = new FileInputStream(myFile);
+			
+			BufferedInputStream bis = new BufferedInputStream(fis);
+			
+			//read the buffered and put it in array
+			bis.read(mybytearray, 0, mybytearray.length);
+			
+			os.write(mybytearray);
+			os.flush(); //mean that sure that everythink is out
+			sock.close();
+			
+			}
+			
+			// servSocket.close();
+			
+		} 
+		catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}     
+		
+
+	}
+
+}

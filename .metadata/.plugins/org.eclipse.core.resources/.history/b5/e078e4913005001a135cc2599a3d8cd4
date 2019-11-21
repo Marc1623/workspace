@@ -1,0 +1,59 @@
+
+public class Ex3 {
+
+	
+	private int nombre=0;
+    private int [] tableau;
+    private int temp=0;
+    private int index=0;
+    
+    public Ex3 (int nombre) {
+    	this.nombre=nombre;
+        tableau = new int[nombre];
+
+        for (int i=0;i<tableau.length;i++){
+            tableau[i] =(int)(Math.random()*30) + 1;
+        }
+    }
+    
+    public void affiche(){
+
+        for (int i=0;i<tableau.length;i++){
+            System.out.print(tableau[i]+"   ");
+        }
+
+        System.out.println();
+    }
+    
+    public void triCompare() {
+    	
+    	 int taille = tableau.length;
+    	 int cpt = 0;
+    	 int []tableau2;
+    	 tableau2 = new int[nombre];
+    	 
+    	 for (int i = 0; i < taille;i++ ) {
+	           for (int j = i+1; j < (taille -1 ); j++) {
+	            	
+	            	if(tableau[i] > tableau[j]) {
+	            		cpt++;
+	            	}
+	            	
+	           }
+	        index = cpt;
+           	// mettre la valeur de tableau[i] dans tableau2 à la position index
+           	tableau2[index+1]=tableau[i];
+           	cpt=0;
+           	index=0;
+    	}
+    	
+    	
+    	for (int i=0;i<tableau2.length;i++){
+            System.out.print(tableau2[i]+"   ");
+        }
+        System.out.println();
+    }
+    
+    
+    
+}
